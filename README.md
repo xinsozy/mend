@@ -1,8 +1,8 @@
 # mend
 
 [![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122/xinsozy/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122/xinsozy/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122/xinsozy/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122/xinsozy/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
 
 `mend` applies an edit that an AI model wrote to a tree of text files, in four
 formats: unified diffs (often with wrong line numbers), SEARCH/REPLACE blocks,
